@@ -1,7 +1,7 @@
 import numpy as np
 import cv2 as cv
 
-rpath = "pose.png"
+rpath = "pose2.png"
 
 img = cv.imread(rpath, cv.IMREAD_GRAYSCALE)
 h, w = img.shape
