@@ -5,4 +5,7 @@ Tracks the centroid of an object over time
 ```
 conda create --name
 conda activate centtr
+conda install numpy
+conda install matplotlib
+conda install opencv-python
 ```
