@@ -31,12 +31,6 @@ for img_path in os.listdir(poses):
 
     output = cv.cvtColor(img, cv.COLOR_GRAY2RGB)
     cv.circle(output, center=[cc//A, cr//A], radius=10, color=[0, 0, 255], thickness=4)
-    # output[cx//A, cy//A] = [255, 255, 255]
 
-    # [0][0] is the top left corner
-    # print(cx//A, cy//A)
-
-    # print(img[0][0])
-
-    cv.imshow("centroid in green", output)
+    cv.imshow("", output)
     cv.waitKey(0)
