@@ -5,7 +5,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description='Run keypoint detection')
 parser.add_argument("--device", default="cpu", help="Device to inference on")
-parser.add_argument("--image_file", default="me_dab.jpg", help="Input image")
+parser.add_argument("--image_file", default="private_tests/me_dab.jpg", help="Input image")
 
 args = parser.parse_args()
 
