@@ -8,6 +8,7 @@ conda activate centtr
 conda install numpy
 conda install matplotlib
 conda install opencv-python
+conda install ipykernel
 ```
 
 ### Openpose
