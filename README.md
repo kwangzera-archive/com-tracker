@@ -14,7 +14,7 @@ conda install ipykernel
 ### Openpose
 - use OpenPose v1.6.0
 - download the models by running the batch file
-- https://learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
+- Most code taken from: https://learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
 - https://github.com/spmallick/learnopencv/blob/master/OpenPose/OpenPoseImage.py
 - add folder `./models` contains the following files: https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/modelso
 
@@ -25,3 +25,6 @@ the trunk; comprising on the average 43% of total body weight. Head and
 neck account for 7% and upper limbs 13% of the human body by weight.
 The thighs, lower legs, and feet constitute the remaining 37% of the total
 body weight
+
+### Misc
+- Image reading code taken from: https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
