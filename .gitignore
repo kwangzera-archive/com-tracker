@@ -130,4 +130,4 @@ dmypy.json
 
 # Other
 models/
-private*/
+saved_generated/
