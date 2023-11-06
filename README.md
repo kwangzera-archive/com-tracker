@@ -1,5 +1,5 @@
-# centroid-tracker
-Tracks the centroid of an object over time
+# COM Tracker
+Tracks the centre of mass of an object over time
 
 ### Conda
 ```
