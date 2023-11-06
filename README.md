@@ -28,6 +28,3 @@ body weight
 
 ### Misc
 - Image reading code taken from: https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
-
-### Todo
-- Rename to center of gravity tracker
